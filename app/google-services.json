@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "777080774466",
+    "firebase_url": "https://third-sem-project-default-rtdb.firebaseio.com",
+    "project_id": "third-sem-project",
+    "storage_bucket": "third-sem-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777080774466:android:c76d46a7dba825709532db",
+        "android_client_info": {
+          "package_name": "com.example.thirdsemproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA9HrlFRPuBL7uExFiyJfk0f9qg9vgTw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
